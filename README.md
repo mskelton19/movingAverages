@@ -1,0 +1,2 @@
+# movingAverages
+Moving Averages
